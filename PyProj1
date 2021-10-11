@@ -1,0 +1,27 @@
+print('<<<< There was a woman \'MADLIB\' by Abu Umar >>>>\n\n')
+
+adjective = input('age/characteristics of the woman - Young, middle aged, happy, sad: ')         
+noun = input('place maybe a hut, car, motel: ')                       
+pnoun = input('plural group terms like cats, dogs, children: ')                
+noun2 = input('ingredients in  food like salt, sugar, pepper, milk: ')                   #  
+verbed = input('verb ending in \'ed\' describing the behavior of woman to the pnoun input maybe picked, patted, filled: ')
+print('\n\n')
+print('There was a ' + adjective + ' woman who lived in a  \b '+ noun)
+print('She had so many ' + pnoun + "\nshe didn`t know what to do :(")
+print('She gave them some \'broth without\' any\t \b\b' + noun2)
+print('She ' + verbed + " them all soundly and put them to bed.\r He")
+print('\n\n')
+print('Program by >')
+
+print('         . .. .         ')
+print('    .              .    ')
+print('  .                  .  ')
+print(' .    FAWAAD KHAN     . ')
+print('.                      .')
+print('.                      .')
+print('.                      .')
+print(' .                    . ')
+print('  .                  .  ')
+print('    .              .    ')
+print('      \'   ..   \'      ')
+
