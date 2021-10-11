@@ -1,5 +1,5 @@
 print('<<<< There was a woman \'MADLIB\' by Abu Umar >>>>\n\n')
-
+time = 9
 adjective = input('age/characteristics of the woman - Young, middle aged, happy, sad: ')         
 noun = input('place maybe a hut, car, motel: ')                       
 pnoun = input('plural group terms like cats, dogs, children: ')                
@@ -9,7 +9,7 @@ print('\n\n')
 print('There was a ' + adjective + ' woman who lived in a  \b '+ noun)
 print('She had so many ' + pnoun + "\nshe didn`t know what to do :(")
 print('She gave them some \'broth without\' any\t \b\b' + noun2)
-print('She ' + verbed + " them all soundly and put them to bed.\r He")
+print('She ' + verbed + " them all soundly at " + str(time) + "pm and put them to bed.\r He")
 print('\n\n')
 print('Program by >')
 
